@@ -31,7 +31,7 @@ while repeat:
     print("JENIS TRANSAKSI : ")
     print("1. Cek Saldo")
     print("2. Tarik Tunai")
-    print("3. Simpan")
+    print("3. Setor Tunai")
     print("4. Ganti PIN")
     print("5. Keluar")
     select = int(input("Silahkan Pilih Menu : "))
